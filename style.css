@@ -1,0 +1,31 @@
+body{
+    background-color:royalblue;
+    margin: auto;
+    text-align: center;
+}
+hr{
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 20%;
+}
+.top-container{
+    background-color: grey;
+    margin: auto;
+    border-radius: 20px;
+}
+.first-list{
+    background-color: grey;
+    margin: 10px auto;
+    border-radius: 20px;
+    width: 35%;
+}
+.second-list{
+    background-color: grey;
+    margin: 10px auto;
+    border-radius: 20px;
+    width: 35%
+}
+h3{
+    text-align: center;
+    margin: 30px auto;
+}
